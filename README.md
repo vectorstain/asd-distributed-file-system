@@ -1,12 +1,11 @@
+![img](Networkdiagram.png)
 # asd-distributed-file-system
 https://ipfscluster.io/documentation/quickstart/
-
 # Guida al funzionamento di IPFS
-
 Progetto ASD A.A. 2022-23
 Realizzato da: 
-Federico Fiorio 
-Vincenzo Maria Calandra
+- Federico Fiorio 
+- Vincenzo Maria Calandra
 
 # Struttura dell'infrastruttura
 Come abbiamo illustrato, la nostra rete è composta da ipfs-cluster e ipfs.
