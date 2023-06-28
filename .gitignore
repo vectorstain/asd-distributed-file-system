@@ -1,3 +1,1 @@
-infrastructure/p2p/__pycache__/*
-infrastructure/p2p/chunked/*
-infrastructure/p2p/transfered/*
+infrastructure/ipfs-cluster/compose/*
